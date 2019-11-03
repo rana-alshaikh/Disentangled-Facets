@@ -1,6 +1,6 @@
 # Disentangled-Facets
 This is the implementation of the IncAgg model proposed in "Learning Conceptual Spaces with Disentangled Facets".
-The implementation used the following:
+The implementation uses the following:
 
 python 3.5.0
 
